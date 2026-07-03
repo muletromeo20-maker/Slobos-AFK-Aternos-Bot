@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Valen_tin123",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Classonly.aternos.me",
-    "port": 52048,
+    "ip": "WASD1_REMAKE.aternos.me",
+    "port": 36293,
     "version": "1.21.10",
     "try-creative": false
   },
